@@ -1,1 +1,3 @@
 backend/model/*.pt
+backend/__pycache__/
+backend/venv/
