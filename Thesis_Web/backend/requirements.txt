@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+torch
+torchvision
+transformers
+pdfminer.six
+pdf2image
+pytesseract
+joblib
+Pillow
+numpy
+opencv-python-headless
+python-multipart
