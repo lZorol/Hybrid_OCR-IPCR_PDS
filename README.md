@@ -181,7 +181,7 @@ Example response:
 
 ## 📜 License
 
-This project is intended for **educational and research purposes**.
+This project is licensed under the MIT License. This project is intended for **educational and research purposes**.
 
 ---
 
