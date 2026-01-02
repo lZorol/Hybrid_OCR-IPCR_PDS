@@ -187,7 +187,7 @@ This project is intended for **educational and research purposes**.
 
 ## ✨ Author
 
-Developed by **Carlo James G. Arat**
-Documented by **Eldi Nill L. Driz**
+* Developed by **Carlo James G. Arat**
+* Documented by **Eldi Nill L. Driz**
 
 Hybrid OCR-powered document intelligence system using modern deep learning techniques.
