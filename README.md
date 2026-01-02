@@ -181,7 +181,7 @@ Example response:
 
 ## 📜 License
 
-This project is intended for **educational and research purposes**. Modify and extend as needed.
+This project is intended for **educational and research purposes**.
 
 ---
 
