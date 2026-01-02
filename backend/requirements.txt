@@ -1,0 +1,20 @@
+fastapi
+uvicorn[standard]
+python-multipart
+torch
+torchvision
+transformers
+pdf2image
+pdfminer.six
+Pillow
+pytesseract
+opencv-python
+joblib
+numpy
+openpyxl>=3.1.2
+
+# Notes:
+# - On Windows, install Poppler binaries and add to PATH for `pdf2image` to work.
+#   See: https://github.com/Belval/pdf2image#installation
+# - Install Tesseract OCR engine on your OS for `pytesseract` to work and ensure
+#   `tesseract` is on your PATH.
