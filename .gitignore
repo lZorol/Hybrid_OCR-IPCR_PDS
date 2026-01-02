@@ -2,3 +2,4 @@ backend/model/*.pt
 backend/model/*.json
 backend/__pycache__/
 backend/.venv/
+.vscode/
